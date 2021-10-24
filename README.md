@@ -27,4 +27,4 @@ You will find all the components used and you can edit your information accordin
 
 ### Show your support
 
-Give a ⭐ if you like this website! Special thanks to Soumyajit Behera for this frontend design.
+Give a ⭐ if you like this website! Special thanks to Soumyajit Behera for this frontend design. 
