@@ -12,22 +12,17 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
-              <h1 className="heading-name">
-                THE MOST
-              </h1>
+              <h3>
+                THE MOST  <strong className="main-name">DEFLATIONARY TOKEN</strong> CREATED
+              </h3>
               <br/>
-              <h1 className="heading-name">
-                <strong className="main-name" style={{paddingLeft:50}}>DEFLATIONARY TOKEN</strong>
-              </h1>
-              <br/>
-              <h1 className="heading-name" style={{marginLeft:100}}>
-                CREATED  -  <strong className="main-name">THE BURNER PROJECT</strong>
-              </h1>
+              <h5 style={{marginLeft:30}}>
+                  -  <strong className="main-name">THE BURNER PROJECT</strong>
+              </h5>
               <br/>
               <br/>
               <br/>
-              <br/>
-              <div style={{marginLeft:100}}>
+              <div style={{marginLeft:30}}>
                 <Typewriter
                   options={{
                     strings: [
