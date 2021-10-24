@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/project-burner/static/css/main.05de1381.chunk.css",
-    "main.js": "/project-burner/static/js/main.cc8dcd4c.chunk.js",
-    "main.js.map": "/project-burner/static/js/main.cc8dcd4c.chunk.js.map",
-    "runtime-main.js": "/project-burner/static/js/runtime-main.ddaf5140.js",
-    "runtime-main.js.map": "/project-burner/static/js/runtime-main.ddaf5140.js.map",
-    "static/css/2.f4878a83.chunk.css": "/project-burner/static/css/2.f4878a83.chunk.css",
-    "static/js/2.bcb087d2.chunk.js": "/project-burner/static/js/2.bcb087d2.chunk.js",
-    "static/js/2.bcb087d2.chunk.js.map": "/project-burner/static/js/2.bcb087d2.chunk.js.map",
-    "index.html": "/project-burner/index.html",
-    "static/css/2.f4878a83.chunk.css.map": "/project-burner/static/css/2.f4878a83.chunk.css.map",
-    "static/css/main.05de1381.chunk.css.map": "/project-burner/static/css/main.05de1381.chunk.css.map",
-    "static/js/2.bcb087d2.chunk.js.LICENSE.txt": "/project-burner/static/js/2.bcb087d2.chunk.js.LICENSE.txt",
-    "static/media/about.aee0f771.png": "/project-burner/static/media/about.aee0f771.png",
-    "static/media/style.css": "/project-burner/static/media/pre.4410c5ba.svg",
-    "static/media/logo.7b77d6de.png": "/project-burner/static/media/logo.7b77d6de.png"
+    "main.css": "/Burner-Project/static/css/main.b406e7ec.chunk.css",
+    "main.js": "/Burner-Project/static/js/main.cc8dcd4c.chunk.js",
+    "main.js.map": "/Burner-Project/static/js/main.cc8dcd4c.chunk.js.map",
+    "runtime-main.js": "/Burner-Project/static/js/runtime-main.046a067e.js",
+    "runtime-main.js.map": "/Burner-Project/static/js/runtime-main.046a067e.js.map",
+    "static/css/2.f4878a83.chunk.css": "/Burner-Project/static/css/2.f4878a83.chunk.css",
+    "static/js/2.bcb087d2.chunk.js": "/Burner-Project/static/js/2.bcb087d2.chunk.js",
+    "static/js/2.bcb087d2.chunk.js.map": "/Burner-Project/static/js/2.bcb087d2.chunk.js.map",
+    "index.html": "/Burner-Project/index.html",
+    "static/css/2.f4878a83.chunk.css.map": "/Burner-Project/static/css/2.f4878a83.chunk.css.map",
+    "static/css/main.b406e7ec.chunk.css.map": "/Burner-Project/static/css/main.b406e7ec.chunk.css.map",
+    "static/js/2.bcb087d2.chunk.js.LICENSE.txt": "/Burner-Project/static/js/2.bcb087d2.chunk.js.LICENSE.txt",
+    "static/media/about.aee0f771.png": "/Burner-Project/static/media/about.aee0f771.png",
+    "static/media/style.css": "/Burner-Project/static/media/pre.4410c5ba.svg",
+    "static/media/logo.7b77d6de.png": "/Burner-Project/static/media/logo.7b77d6de.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddaf5140.js",
+    "static/js/runtime-main.046a067e.js",
     "static/css/2.f4878a83.chunk.css",
     "static/js/2.bcb087d2.chunk.js",
-    "static/css/main.05de1381.chunk.css",
+    "static/css/main.b406e7ec.chunk.css",
     "static/js/main.cc8dcd4c.chunk.js"
   ]
 }
