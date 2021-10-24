@@ -29,8 +29,7 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/Dapp" component={Dapp} />
+          <Route path="/" component={Home} />
         </Switch>
         <Footer />
       </div>

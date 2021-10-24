@@ -1,6 +1,6 @@
 {
   "name": "Dapp-Template",
-  "homepage": "https://pengchew.github.io/Burner-Project",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
