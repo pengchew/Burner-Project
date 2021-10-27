@@ -14,8 +14,9 @@ import {
   AiFillGithub,
   AiOutlineSolution,
   AiOutlineHome,
-  AiOutlineFundProjectionScreen,
+  AiOutlineBarChart,
   AiOutlineUser,
+  AiOutlineThunderbolt,
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
@@ -59,6 +60,16 @@ function NavBar() {
           <Nav style={{marginRight:0,marginLeft:'auto'}}>
           <Nav.Item>
             <Nav.Link
+              href="https://info.quickswap.exchange/pair/0xdc52291e2387e26081f43faf11808d0493990715"
+              onClick={() => updateExpanded(false)}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <AiOutlineBarChart style={{ marginBottom: "2px" }} /> Polygon Analytic
+            </Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
+            <Nav.Link
               href="https://polygonscan.com/token/0x4fa43a983466dda2fca21dd19c4456a2b1c1b857"
               onClick={() => updateExpanded(false)}
               target="_blank"
@@ -83,7 +94,7 @@ function NavBar() {
                 target="_blank"
                 className="fork-btn-inner"
               >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{"Buy Token  "}
+                <AiOutlineThunderbolt style={{ fontSize: "1.2em" }} />{"Buy Token  "}
               </Button>
             </Nav.Item>
           </Nav>
